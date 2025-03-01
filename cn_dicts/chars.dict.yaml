@@ -3,7 +3,7 @@
 #https://github.com/amzxyz/RIME-LMDG
 ---
 name: chars
-version: "2025-02-28 13:51"
+version: "2025-03-01 17:36"
 sort: by_weight
 ...
 啊	a;kk;kk;ka;oj;rr;dz;kb;kk;	915
@@ -5189,11 +5189,11 @@ sort: by_weight
 𩗰	chuí;ft;ji;fi;;hm;og;mt;;	1
 𩭦	chuí;et;ai;ii;;sm;pg;de;;	1
 𪯌	chuí;;pw;	1
-春	chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	730
-纯	chún;st;st;st;er;vu;is;xg;st;	698
+纯	chún;st;st;st;er;vu;is;xg;st;	730
+蠢	chǔn;ii;fi;ii;uf;qi;ac;dw;ii;	725
+春	chūn;io;fo;of,fo;uv;qa;ao;dw;ao;	698
 醇	chún;yz;yz;yx;pa;md;yh;sg;yz;	617
 唇	chún;ik;ik;ik,ki;ro;mr;fd;df;ik;	611
-蠢	chǔn;ii;fi;ii;uf;qi;ac;dw;ii;	579
 淳	chún;dz;dz;dx;ka;ed;kh;iy;dz;	553
 椿	chūn;mo;mo;mi;wv;da;eo;sd;lo;	493
 鹑	chún;wn;wn;nx;ic;ym;gx;yb;wn;	486
@@ -21367,9 +21367,9 @@ sort: by_weight
 蠡	lí;hi;vi;it,iu;rf;vi;bc;xe;vi;	1
 俩	liǎ;rl;rl;rl;xe;ob;jm;wg;rl;	637
 倆	liǎ;rr;rr;rl;;ob;jm;wg;;	334
-联	lián;et;et;eg;dx;sk;qm;bu;ed;	795
 连	lián;zi;zi;zi;tq;yq;yu;lp;zi;	766
 练	liàn;sd;sd;sd,sj;ei;vc,vd;iy;xa;sd;	761
+联	lián;et;et;eg;dx;sk;qm;bu;ed;	755
 脸	liǎn;oq;oa;oa,oq;ld;bm;vf;ew;oa;	719
 链	liàn;ji;jz;jl;dq;oq;zu;ql;ji;	716
 恋	liàn;wx;wx;xy,yx;in;yp;zh;yo;wx;	699
