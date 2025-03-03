@@ -4,7 +4,7 @@
 #兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
 ---
 name: compatible
-version: "2025-03-03 16:01"
+version: "2025-03-03 17:24"
 sort: by_weight
 ...
 长点儿	cháng;pn;pn;pd;uh;po;pc;ta;pn diǎn;vh;lh;hv;pn;yf,xf;yc;hk;ve ér;pv;pv;pg;kk;lu;pe;qt;pv	293
@@ -13,6 +13,15 @@ sort: by_weight
 就得到	jiù;wy;wy;yj;ih;yu;go;yi;wy dé;rc;ic;xc;hk;hi;wk;tj;rc dào;gd;ad;dv;di;mn;yp;gc;vd	498
 掉色	diào;fu;fu;fv;js;qj;un;rh;fu sè;db;db;db;gt;nu;xm;qc;eb	552
 掉色	diào;fu;fu;fv;js;qj;un;rh;fu shǎi;db;db;db;gt;nu;xm;qc;eb	552
+大方	dà;ar;un;ad;xx;kk;md;dd;an fang;wv;dw;dg,wd,dp,dw;ff;ys;lf;yy;wp	676
+沉甸甸	chén;dj;dj;dj,dr;ki;en,eu,xu;ko;ip;dj diān;bt;bt;gt,tg;uw;pw;nq;ql;pt diān;bt;bt;gt,tg;uw;pw;nq;ql;pt	380
+沉甸甸	chén;dj;dj;dj,dr;ki;en,eu,xu;ko;ip;dj diàn;bt;bt;gt,tg;uw;pw;nq;ql;pt diàn;bt;bt;gt,tg;uw;pw;nq;ql;pt	380
+热腾腾	rè;fh;fh;hv;jn;qf;uc;rv;fe téng;om;om;om;lz;bm;vn;eu;om téng;om;om;om;lz;bm;vn;eu;om	447
+热腾腾	rè;fh;fh;hv;jn;qf;uc;rv;fe tēng;om;om;om;lz;bm;vn;eu;om tēng;om;om;om;lz;bm;vn;eu;om	447
+大爷	dà;ar;un;ad;xx;kk;md;dd;an yé;fe;be;fe;fb;cl;hz;wq;be	646
+兄弟	xiōng;ke;ke;ke;ok;ru;dp;kq;ke di;bd;bp;bp;fu;ch;ht;ux;ep	735
+姑父	gū;ng;nk;ng;yo;vr;bc;vd;nk fù;bx;bx;bi,pd;fy;ck;hb;wq;bx	491
+女婿	nǚ;va;va;aa,vh;yy;vv;bn;vv;va xù;no;no;nx;yl;vb;bv;vn;no	600
 朝阳	zhāo;uo;uo;ou,uo;sl;jb;nv;fj;uo yáng;eo;eo;eo;bv;na;to;bj;eo	660
 朝阳	cháo;uo;uo;ou,uo;sl;jb;nv;fj;uo yáng;eo;eo;eo;bv;na;to;bj;eo	660
 单行	dān;bu;bl;ba,bd;fs;cj;hn;uj;ea xíng;rd;ii;xd,xi;hs;hn;px;tf;rd	504
