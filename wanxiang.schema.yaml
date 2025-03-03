@@ -603,6 +603,78 @@ speller:
     - xform/^zh/Ⓥ/
     - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
 
+algebra_ziguang: 
+  __append:
+    - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
+    - xform/ń|ň|ǹ/en/ 
+    - xform/^ng(;.*)/eng$1/
+    - xform/ńg|ňg|ǹg/eng/
+    - derive/^([jqxy])u(;.*)$/$1v$2/
+    - xform/^([aoe].*)(;.*)$/Ⓞ$1$2/
+    - xform/^(\w+?)en(;.*)$/$1Ⓦ$2/
+    - xform/^(\w+?)eng(;.*)$/$1Ⓣ$2/
+    - xform/^(\w+?)in$|uai(;.*)$/$1Ⓨ$2/
+    - xform/^(\w+?)uo(;.*)$/$1Ⓞ$2/
+    - xform/^(\w+?)ai(;.*)$/$1Ⓟ$2/
+    - xform/^(\w+?)[iu]ang(;.*)$/$1Ⓖ$2/
+    - xform/^(\w+?)ang(;.*)$/$1Ⓢ$2/
+    - xform/^(\w+?)ie(;.*)$/$1Ⓓ$2/
+    - xform/^(\w+?)ian(;.*)$/$1Ⓕ$2/
+    - xform/^(\w+?)i?ong(;.*)$/$1Ⓗ$2/
+    - xform/^(\w+?)er(;.*)$/$1Ⓙ$2/
+    - xform/^(\w+?)iu(;.*)$/$1Ⓙ$2/
+    - xform/^(\w+?)ei(;.*)$/$1Ⓚ$2/
+    - xform/^(\w+?)uan(;.*)$/$1Ⓛ$2/
+    - xform/^(\w+?)ing(;.*)$/$1;$2/
+    - xform/^(\w+?)ou(;.*)$/$1Ⓩ$2/
+    - xform/^(\w+?)[iu]a(;.*)$/$1Ⓧ$2/
+    - xform/^(\w+?)iao(;.*)$/$1Ⓑ$2/
+    - xform/^(\w+?)ue(;.*)$/$1Ⓝ$2/
+    - xform/^(\w+?)ui(;.*)$/$1Ⓝ$2/
+    - xform/^(\w+?)ve(;.*)$/$1Ⓝ$2/
+    - xform/^(\w+?)un(;.*)$/$1Ⓜ$2/
+    - xform/^(\w+?)ao(;.*)$/$1Ⓠ$2/
+    - xform/^(\w+?)an(;.*)$/$1Ⓡ$2/
+    - xform/^zh/Ⓤ/
+    - xform/^sh/Ⓘ/
+    - xform/^ch/Ⓐ/
+    - xlit/ⓌⓉⓎⓊⒾⓄⓅⒶⒼⓈⒹⒻⒽⒿⓀⓁⓏⓍⒷⓃⓂⓆⓇ/wtyuiopagsdfhjklzxbnmqr/
+
+algebra_abc: 
+  __append:
+    - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
+    - xform/ń|ň|ǹ/en/ 
+    - xform/^ng(;.*)/eng$1/
+    - xform/ńg|ňg|ǹg/eng/
+    - xform/^([aoe].*)(;.*)$/Ⓞ$1$2/
+    - xform/^(\w+?)ei(;.*)$/$1Ⓠ$2/
+    - xform/^(\w+?)ian(;.*)$/$1Ⓦ$2/
+    - xform/^(\w+?)er(;.*)$/$1Ⓡ$2/
+    - xform/^(\w+?)iu(;.*)$/$1Ⓡ$2/
+    - xform/^(\w+?)[iu]ang(;.*)$/$1Ⓣ$2/
+    - xform/^(\w+?)ing(;.*)$/$1Ⓨ$2/
+    - xform/^(\w+?)uo(;.*)$/$1Ⓞ$2/
+    - xform/^(\w+?)uan(;.*)$/$1Ⓟ$2/
+    - xform/^(\w+?)i?ong(;.*)$/$1Ⓢ$2/
+    - xform/^(\w+?)[iu]a(;.*)$/$1Ⓓ$2/
+    - xform/^(\w+?)en(;.*)$/$1Ⓕ$2/
+    - xform/^(\w+?)eng(;.*)$/$1Ⓖ$2/
+    - xform/^(\w+?)ang(;.*)$/$1Ⓗ$2/
+    - xform/^(\w+?)an(;.*)$/$1Ⓙ$2/
+    - xform/^(\w+?)iao(;.*)$/$1Ⓩ$2/
+    - xform/^(\w+?)ao(;.*)$/$1Ⓚ$2/
+    - xform/^(\w+?)in(;.*)$/$1Ⓒ$2/
+    - xform/^(\w+?)uai(;.*)$/$1Ⓒ$2/
+    - xform/^(\w+?)ai(;.*)$/$1Ⓛ$2/
+    - xform/^(\w+?)ie(;.*)$/$1Ⓧ$2/
+    - xform/^(\w+?)ou(;.*)$/$1Ⓑ$2/
+    - xform/^(\w+?)un(;.*)$/$1Ⓝ$2/
+    - xform/^(\w+?)[uv]e(;.*)$/$1Ⓜ$2/
+    - xform/^(\w+?)ui(;.*)$/$1Ⓜ$2/
+    - xform/^zh/Ⓐ/
+    - xform/^ch/Ⓔ/
+    - xform/^sh/Ⓥ/
+    - xlit/ⓆⓌⒺⓇⓉⓎⓄⓅⒶⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwertyopasdfghjklzxcvbnm/
 
 ###############################################以下是用来配置不同的辅助码方案###############################################
 fuzhu_kong: 
